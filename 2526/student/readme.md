@@ -22,7 +22,7 @@
 |10 | EVELYN GOH YUAN QI |  |  |  |  |
 |11 | FARRA NURZAHIN BINTI ZAHARIL ANUAR |  |  |  |  |
 |12 | GUI KAH SIN |  |  |  |  |
-|13 | JOANNE CHING YIN XUAN |  |  |  |  |
+|13 | JOANNE CHING YIN XUAN | JOANNE-321 | [:octocat:](https://github.com/JOANNE-321) | <a href="https://www.linkedin.com/in/joanne-ching-972b8b269/" ><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/JOANNE-321/HPDP/tree/main/2526/student/Joanne%20Ching%20Yin%20Xuan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 |14 | LAU YAN KAI |  |  |  |  |
 |15 | LAU YEE WEN |  |  |  |  |
 |16 | LEE YIN SHEN |  |  |  |  |
