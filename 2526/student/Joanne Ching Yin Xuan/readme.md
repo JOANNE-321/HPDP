@@ -103,16 +103,15 @@ Foundation in Science – UTM SPACE
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOANNE-321&layout=compact&theme=react" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JOANNE-321&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOANNE-321&show_icons=true&theme=react" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JOANNE-321&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOANNE-321&theme=react" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JOANNE-321&theme=tokyonight" />
 </p>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=JOANNE-321&label=VISITORS&countColor=%232ccce4)
