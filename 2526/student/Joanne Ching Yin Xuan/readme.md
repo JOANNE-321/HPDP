@@ -69,7 +69,6 @@ Foundation in Science – UTM SPACE
 ### 🔹 UTM AI Ideathon (FCRI 2025)
 - Participated in **AI competition** during FC Research & Innovation Day  
 - Applied **machine learning & problem-solving** to real-world challenges  
-- Contributed to **model design** and **UI development**  
 
 ---
 
